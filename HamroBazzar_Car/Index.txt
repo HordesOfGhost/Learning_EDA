@@ -1,0 +1,27 @@
+Brand Name:
+ 	'Chevrolet': 0,
+ 	'Ford': 1,
+ 	'Honda': 2,
+ 	'Hyundai': 3,
+ 	'Kia': 4,
+ 	'Mahindra': 5,
+ 	'Maruti Suzuki': 6,
+ 	'Nissan': 7,
+ 	'Other Brands': 8,
+ 	'Renault': 9,
+ 	'Tata': 10,
+ 	'Toyota': 11,
+ 	'Volkswagen': 12
+
+Fuel:
+	"Diesel" : 0 
+   	"Electric" : 1 
+   	"Hybrid" : 2 
+   	"Petrol" : 3
+
+Transmission:
+	"auto2wd" : 0 
+	"auto4wd" : 1 
+	"manual2wd" : 2
+	"manual4wd" : 3 
+	"powersteering" : 4
