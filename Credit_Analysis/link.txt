@@ -1,1 +1,5 @@
 https://www.kaggle.com/code/clkmuhammed/credit-score-classification-part-1-data-cleaning/notebook
+
+References:
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Niloofar-Yousefi-3/publication/268049977_A_Proposed_Classification_of_Data_Mining_Techniques_in_Credit_Scoring/links/59b01caf458515a5b484d75d/A-Proposed-Classification-of-Data-Mining-Techniques-in-Credit-Scoring.pdf
